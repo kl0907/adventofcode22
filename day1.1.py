@@ -8,6 +8,3 @@ sumlist = [element1]
 
 print(max(sumlist))
 
-
-#tutorials followed:
-#code referenced:
